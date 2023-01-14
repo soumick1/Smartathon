@@ -1,0 +1,11 @@
+torchvision
+torch
+numpy
+fvcore
+matplotlib
+tqdm
+tabulate
+scipy
+tensorboard
+einops
+rich
